@@ -8,3 +8,4 @@ Today was a saddening last day at the Fu Lab in George Washington University's S
 
 <img src = "/assets/images/gwu2018/millielast.png" alt = "">
 <img src = "/assets/images/gwu2018/dryinlast.png" alt = "">
+<img src = "/assets/images/gwu2018/mylastday.jpg" alt = "">
