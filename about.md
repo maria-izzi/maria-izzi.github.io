@@ -3,13 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
+My name is Maria Izzi. I am a sophomore at Thomas Jefferson High School for Science and Technology. I enjoy learning about artificial intelligence and other computer science related topics in my free time, as well as biology and its integration into computer science. I also enjoy reading John Grisham novels and playing the viola, and I am a first stand player in a local orchestra.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<img src = "assets/images/profilepic.jpg" alt = "">
