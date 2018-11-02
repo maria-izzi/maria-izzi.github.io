@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: "Teaching a Coding Camp at DCHA!"
 date: 2017-10-21
 category: dcha
