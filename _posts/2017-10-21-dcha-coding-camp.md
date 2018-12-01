@@ -9,4 +9,4 @@ Coming from TJHSST, where so many STEM opportunities are present and everyone is
 We got to really learn a lot about the girls, and they got to learn quite a bit about coding as well. People from such different backgrounds and interests came together in the community to create masterpieces.
 
 To find out more about our event:
-<a> http://www.dchousing.org/doc.aspx?docid=2017110313131120320&AspxAutoDetectCookieSupport=1 </a>
+<a> href = "http://www.dchousing.org/doc.aspx?docid=2017110313131120320&AspxAutoDetectCookieSupport=1" </a>
