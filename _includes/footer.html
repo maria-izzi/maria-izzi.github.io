@@ -27,8 +27,20 @@
           {% endif %}
         </ul>
       </div>
+      
+      <div class = "footer-col footer-col-3">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131674005-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
 
-      <div class="footer-col footer-col-3">
+          gtag('config', 'UA-131674005-1');
+        </script>
+      </div>
+
+      <div class="footer-col footer-col-4">
         <p>{{ site.description }}</p>
       </div>
     </div>
