@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2019-1-17
+title: NCWIT National Honorable Mention!
 category: ncwit
 ---
 I recently found out that I was awarded an NCWIT Aspirations in Computing Honorable Mention at the national level! This is a computer science award for girls, and my distinction was one of under 400 given out to thousands of applicants. I am very grateful for this award, and I have worked hard at furthering my computer science knowledge!
