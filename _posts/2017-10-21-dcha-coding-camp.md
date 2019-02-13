@@ -11,3 +11,9 @@ We got to really learn a lot about the girls, and they got to learn quite a bit 
 To find out more about our event click
 <a href = "http://www.dchousing.org/doc.aspx?docid=2017110313131120320&AspxAutoDetectCookieSupport=1"> here</a>
 !
+
+<img src = "/assets/images/dcha/dcha_projector.JPEG" alt = "">
+<img src = "/assets/images/dcha/dcha_group.JPEG" alt = "">
+<img src = "/assets/images/dcha/dcha_computer.JPEG" alt = "">
+<img src = "/assets/images/dcha/dcha_helping.JPEG" alt = "">
+<img src = "/assets/images/dcha/dcha_helping_2.JPEG" alt = "">
