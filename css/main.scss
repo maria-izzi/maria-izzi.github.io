@@ -28,7 +28,19 @@ $content-width:    1000px;
 $on-palm:          600px;
 $on-laptop:        1000px;
 
+div{
+    float:left;
+    margin-right:5px;
+}
 
+div > img{
+   height:200px;
+    width:200px;
+}
+
+p{
+    text-align:center;
+}
 
 // Use media queries like this:
 // @include media-query($on-palm) {
