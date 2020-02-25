@@ -39,16 +39,19 @@ h2
     text-align: center;
 }
 
-.imageWord
-{
-    float:left;
-    width: 500px;
-    margin-right:5px;
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
 }
-.textRight
-{
-    float: right
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //     .wrapper {
