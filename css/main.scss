@@ -33,7 +33,11 @@ $on-laptop:        1000px;
     float:left;
     margin-right:5px;
 }
-
+.wordRight
+{
+    float:right;
+    margin-left:5px;
+}
 // Use media queries like this:
 // @include media-query($on-palm) {
 //     .wrapper {
