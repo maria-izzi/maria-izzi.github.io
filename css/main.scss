@@ -30,15 +30,17 @@ $on-laptop:        1000px;
 
 h1
 {
-    font-family: Garamond;
     text-align: center;
 }
 h2
 {
-    font-family: Garamond;
     text-align: center;
 }
-
+head
+{
+    font-family: Garamond;
+    text-color: #A9A9A9;
+}
 .row {
   display: flex;
   text-align:center;
